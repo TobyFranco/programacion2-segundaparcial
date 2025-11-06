@@ -60,7 +60,7 @@ Aplicación Android desarrollada en Java que permite la gestión integral de cli
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TU-USUARIO/programacion2-segundaparcial.git
+git clone https://github.com/TobyFranco/programacion2-segundaparcial.git
 ```
 
 2. Abre el proyecto en Android Studio
